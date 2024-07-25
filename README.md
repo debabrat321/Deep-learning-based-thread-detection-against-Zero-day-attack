@@ -8,4 +8,7 @@ showcasing its superiority over conventional IDS. The results also highlight the
 scalability, adaptability, and proficiency in detecting zero-day attacks in real-time. Our approach encompasses a combination of machine learning (ML) and deep learning (DL) techniques. By harnessing the capabilities of autoencoders and recurrent neural networks, we 
 have developed an advanced IDS that not only identifies but also adapts to evolving attack 
 strategies. Additionally, our methodology incorporates a thorough feature selection process, 
-ensuring the system operates with high efficiency and minimal computational burden
+ensuring the system operates with high efficiency and minimal computational burden.
+
+Dataset used: NSL -KDD, UNSW NB-15
+
