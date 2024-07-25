@@ -5,7 +5,7 @@ or rules. This study delves into the complexities of these challenges, examining
 exploration of even more advanced techniques and methodologies to safeguard our critical 
 infrastructure. Through extensive experimentation with diverse datasets, our proposed system has demonstrated a substantial reduction in both false positives and false negatives, 
 showcasing its superiority over conventional IDS. The results also highlight the system's 
-scalability, adaptability, and proficiency in detecting zero-day attacks in real-time. Our approach encompasses a combination of machine learning (ML) and deep learning (DL) techniques. By harnessing the capabilities of autoencoders and recurrent neural networks, we 
+scalability, adaptability, and proficiency in detecting zero-day attacks in real-time. Our approach encompasses a combination of machine learning (ML) and deep learning (DL) techniques. By harnessing the capabilities of autoencoders and recurrent neural networks, we 
 have developed an advanced IDS that not only identifies but also adapts to evolving attack 
 strategies. Additionally, our methodology incorporates a thorough feature selection process, 
 ensuring the system operates with high efficiency and minimal computational burden
